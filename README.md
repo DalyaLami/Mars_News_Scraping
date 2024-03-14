@@ -1,4 +1,4 @@
-# Evaluating_Food_Hygiene_Rating
+# Mars_News_Scraping
 
 Web-scrape and data analyse using both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 
